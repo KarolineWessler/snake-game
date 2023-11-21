@@ -1,7 +1,6 @@
-# snake-game 
+# Jogo da cobrinha 
 
 Projeto desenvolvido para a matéria de Desenvolvimento de Jogos utilizando o GameEnginer Unity e C#.
-
 
 ![image](https://github.com/KarolineWessler/snake-game/assets/91632335/803e906d-238d-4a0d-a706-afe017b173cb)
 
@@ -33,7 +32,7 @@ Projeto desenvolvido para a matéria de Desenvolvimento de Jogos utilizando o Ga
 ### Recursos Adicionais
 * O jogo possui controle de vidas, menu de pausa, tela de game over e sons.
 
-🐍🎮
+Se divirta 🐍🎮
 
 
 
